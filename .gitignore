@@ -1,14 +1,8 @@
-# Test Complete ignore files: https://support.smartbear.com/viewarticle/68002/
-
-# Tester-specific Settings
-*.tcCFGExtender
-*.tcLS
-
-# Type library declarations
-*.tlb
-
-# Log files
-*.tcLogs
-
-# Backup files
+*.class
+*.rar
+*.zip
+*.log
+*.tmp
 *.bak
+.DS_Store
+Thumbs.db
